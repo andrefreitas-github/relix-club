@@ -1,8 +1,8 @@
-# Privacy Policy – [Your App Name]
+# Privacy Policy – Relix Club
 
-**Last updated:** [MM/DD/YYYY]  
+**Last updated:** [08/31/2025]  
 
-The application **[Your App Name]** respects your privacy. This Privacy Policy explains how we handle user information.  
+The application **Relix Club** respects your privacy. This Privacy Policy explains how we handle user information.  
 
 ## 1. Information Collection
 Our application **does not collect, store, or share any personal information** (such as name, email, phone number, or location).  
@@ -30,4 +30,4 @@ We may update this Privacy Policy from time to time. We recommend checking this 
 
 ## 9. Contact
 If you have any questions about this Privacy Policy, please contact us at:  
-📧 **[youremail@example.com]**
+📧 **[helpme@relixclub.com]**
